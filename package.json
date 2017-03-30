@@ -12,6 +12,33 @@
     "Wifi",
     "Parameter"
   ],
-  "author": "Peng Yanbing",
-  "license": "ISC"
+  "author": {
+     "name":"Peng Yanbing",
+     "email":"pengyanbing@msn.com",
+     "url": "https://implicitcast.com"
+  },
+  "peerDependencies":{
+    "react-native": ">=0.8.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"git+https://github.com/pengyanb/react-native-pybwifiparam.git"
+  },
+  "react-native": {
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify"
+  },
+  "browser": {
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify"
+  },
+  "license": "MIT"
 }
