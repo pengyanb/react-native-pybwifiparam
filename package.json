@@ -1,0 +1,17 @@
+{
+  "name": "react-native-pybwifiparam",
+  "version": "1.0.0",
+  "description": "React Native Wifi Parameter Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Wifi",
+    "Parameter"
+  ],
+  "author": "Peng Yanbing",
+  "license": "ISC"
+}
